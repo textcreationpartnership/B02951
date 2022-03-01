@@ -1,0 +1,242 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Anno regni Caroli II regis Angliæ, Scotiæ, Franciæ, &amp; Hiberniæ decimo tertio. At the Parliament holden at Westminister the 8th of May, anno Dom. 1661. In the thirteenth year of the raigne of Our Most Gracious Soveraign Lord Charles, by the grace of God, of England, Scotland, France and Ireland, king, defender of the faith, etc. An act for the establishing articles and orders for the regulating and better government of His Majesties navies, ships of war, and forces by sea.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02951</idno>
+            <idno type="STC">Wing E1108B</idno>
+            <idno type="STC">ESTC R176089</idno>
+            <idno type="EEBO-CITATION">52528809</idno>
+            <idno type="OCLC">ocm 52528809</idno>
+            <idno type="VID">178777</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02951)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 178777)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2770:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Anno regni Caroli II regis Angliæ, Scotiæ, Franciæ, &amp; Hiberniæ decimo tertio. At the Parliament holden at Westminister the 8th of May, anno Dom. 1661. In the thirteenth year of the raigne of Our Most Gracious Soveraign Lord Charles, by the grace of God, of England, Scotland, France and Ireland, king, defender of the faith, etc. An act for the establishing articles and orders for the regulating and better government of His Majesties navies, ships of war, and forces by sea.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by S. and B. Griffin by order of the principal officers and commissioners of his Majesties Navy,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1678.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Royal Navy --  Regulations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:178777:1"/> 
+               <pb facs="tcp:178777:1"/> 
+               <hi>ANNO REGNI</hi> CAROLI II. REGIS Angliae, Scotiae, Franciae, &amp; Hiberniae Decimo Tertio.</p>
+            <p>At the Parliament holden at <hi>Weſtminſter</hi> the
+<hi>8th.</hi> of <hi>May, Anno Dom,</hi> 1661.</p>
+            <p>In the Thirteenth year of the Raign of our moſt Gracious Soveraign Lord CHARLES, by the Grace of God, of <hi>England, Scotland, France,</hi> and <hi>Ireland,</hi> King, Defender of the Faith,
+<hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>An Act for the Eſtabliſhing Articles and Or<g ref="char:EOLhyphen"/>ders for the regulating and better govern<g ref="char:EOLhyphen"/>ment of His Majeſties Navies, Ships of War, and Forces by Sea.</hi>
+            </p>
+            <figure/>
+            <p>
+               <hi>LONDON.</hi>
+            </p>
+            <p>Printed by <hi>S.</hi> and <hi>B. Griffin</hi> by order of the Principal Officers and Commiſſioners of His Majeſties Navy, 1678.</p>
+            <pb facs="tcp:178777:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="articles_of_war">
+            <pb n="1" facs="tcp:178777:2"/>
+            <head>ANNO XIII. CAROLI II. Regis.</head>
+            <head type="sub">An Act for the Eſtabliſhing Articles and Orders for the Regulating and and better Government of His Maje<g ref="char:EOLhyphen"/>ſties Navies, Ships of War, and Forces by Sea.</head>
+            <argument>
+               <p>FOr the Regulating and better Government of His Majeſties Navies, Ships of War, and Forces by Sea; Wherein under the good Providence and Protection of God, the Wealth, Safety, and Strength of this Kingdome is ſo much concerned, Be it enacted by the Kings moſt Excel<g ref="char:EOLhyphen"/>lent Majeſty, with the Advice and Con<g ref="char:EOLhyphen"/>ſent of the Lords and Commons in this preſent Parliament aſſembled, and by <pb n="2" facs="tcp:178777:3"/> 
+                  <hi>the Authority thereof, That all and every the Articles and Orders in this Act menti<g ref="char:EOLhyphen"/>oned, ſhall be duely and reſpectively put in Erecution, obſerved, and obeyed in man<g ref="char:EOLhyphen"/>ner hereafter mentioned.</hi>
+               </p>
+            </argument>
+            <p n="1">
+               <label>I.</label> THat all Commanders, Captains, and other Officers at Sea, ſhall cauſe the Publique Worſhip of Almighty GOD, according to the Liturgy of the Church of <hi>England,</hi> e<g ref="char:EOLhyphen"/>ſtabliſhed by Law, to be ſolemnly, orderly, and reverently performed in their reſpective Ships<hi>:</hi> And that Prayers and Preachings by the reſpective Chaplains, in holy Orders, of the reſpective Ships, be performed diligently; and that the Lords-day be obſerved according to Law.</p>
+            <p n="2">
+               <label>II.</label> Every perſon and perſons in His Majeſties pay, uſing unlawful and raſh Oaths, Curſings, Execrations, Drun<g ref="char:EOLhyphen"/>kenneſs, Uncleanneſs, or other Scandalous Actions, in dero<g ref="char:EOLhyphen"/>gation of GODS honour, and corruption of good manners, ſhall be puniſhed by Fine, Impriſonment, or otherwiſe, as the Court-Martial ſhall think fit.</p>
+            <p n="3">
+               <label>III.</label> If any Officer, Mariner, Souldier, or other perſon in the Fleet, ſhall give, hold, or entertain Intelligence, to, or with any King, Prince, or State; being enemy to, or any perſons in Rebellion againſt His Majeſty, His Heirs and Succeſſors, without direction or leave from the Kings Majeſty, the Lord High-Admiral, Vice-Admiral, or Commander in chief of any Squadron, every ſuch perſon or perſons ſo offen<g ref="char:EOLhyphen"/>ding, ſhall be puniſhed with death.</p>
+            <p n="4">
+               <label>IV.</label> If any Letter or Meſſage, from any King, Foreign Prince, <pb n="3" facs="tcp:178777:3"/> State, or Potentate, being an enemy to the Kings Majeſty, His Heirs and Succeſſors, or on their behalf, be conveyed to any inferiour Officer, Mariner, or Souldier, or other in the Fleet, and the ſaid Officer, Mariner, Souldier, or other, as aforeſaid, do not within twelve hours (having op<g ref="char:EOLhyphen"/>portunity ſo to do) acquaint the Superiour Commander with it; or if a Superiour Officer, or Mariner, being acquainted therewith by an Inferiour Officer, Mariner, or other, or him<g ref="char:EOLhyphen"/>ſelf in his own perſon, receiving a Letter or Meſſage from any ſuch Enemy or Rebel, and ſhall not in convenient time re<g ref="char:EOLhyphen"/>veal the ſame to the Admiral, Vice-Admiral, or the Comman<g ref="char:EOLhyphen"/>der of the Squadron, every ſuch perſon ſhall be puniſhed with death, or ſuch other puniſhment as the Court-Martial ſhall think fit.</p>
+            <p n="5">
+               <label>V.</label> No perſon or perſons of the Fleet ſhall relieve an Enemy or Rebel, in time of War, with Money, Victuals, Powder, Shot, Arms, Ammunition, or any other Supplies whatſo<g ref="char:EOLhyphen"/>ever, directly or indirectly, upon pain of death, or ſuch other puniſhment, as the Court-Martial ſhall think fit to im<g ref="char:EOLhyphen"/>poſe.</p>
+            <p n="6">
+               <label>VI.</label> All the Papers, Charter-parties, Bills of Lading, paſ<g ref="char:EOLhyphen"/>ports, and other Writings whatſoever, that ſhall be taken, ſeized, or found aboard any Ship or Ships, which ſhall be ſurpriſed or ſeiſed as Prize, ſhall be duly preſerved, and not torn, nor made away, but the very Originals ſent up intirely, and without fraud, to the Court of Admiralty, or ſuch other Commiſſioners as ſhall be appointed for that purpoſe; there to be viewed, made uſe of, and proceeded upon according to Law, upon pain of loſs of all the ſharers of the Takers, and ſuch further puniſhment to be inflicted upon the Offen<g ref="char:EOLhyphen"/>ders therein, as the quality of their offence and miſdemeanor ſhall be ſound to deſerve, and the Court-Martial ſhall im<g ref="char:EOLhyphen"/>poſe.</p>
+            <p n="7">
+               <pb n="4" facs="tcp:178777:4"/>
+               <label>VII.</label> None in His Majeſties pay ſhall take out of any prize, or Ship, or Goods ſeized on for Prize, any Money, Plate, Goods, Lading, or Tackle, before Judgement thereof firſt paſt in the Admiralty Court; but the full and intire accompt of the whole, without imbezlement, ſhall be brought in, and Judgement paſt intirely upon the whole, without fraud, upon pain of ſuch puniſhment as ſhall be impoſed by a Court-Martial, or the Court of Admiralty; excepting, That it ſhall be lawful for all Captains, Seamen, Souldiers, and others, ſerving as aforeſaid, to take, and to have to themſelves, as Pillage, without further or other accompt to be given for the ſame, all ſuch Goods and Merchandizes (other then Arms, Ammunition, Tackle, Furniture, or Stores of ſuch Ship) as ſhall be found by them, or any of them, in any Ship (they ſhall take in fight or prize) upon or above the Gun-deck of the ſaid Ship, and not otherwiſe.</p>
+            <p n="8">
+               <label>VIII.</label> None ſhall imbezle, ſteal, or take away any Cables. Anchors, Sails, or any of the Ships Furniture, or any of the Powder, or Arms, or Ammunition of the Ship, upon pain of death, or other puniſhment, as the quality of the offence ſhall be found by a Court-Martial to deſerve.</p>
+            <p n="9">
+               <label>IX.</label> If any Foreign Ship or Veſſel ſhall be taken as prize, that ſhall nor fight or make reſiſtance, that in that caſe, none of the Captains, Maſters, or Mariners, being Forreigners, ſhall be ſtripped of their Cloaths, or in any ſort pillaged, beaten, or evil entreated, upon pain, That the perſon or perſons ſo offending, ſhall forfeit double damages; but the ſaid Foreign Ships, and all the Goods ſo taken, ſhall be preſerved intire to receive Judgement in the Admiralty Court, according to right and Juſtice.</p>
+            <p n="10">
+               <pb n="5" facs="tcp:178777:4"/>
+               <label>X.</label> Every Captain or Commander, who upon ſignal, or order of fight, or view, or ſight of any Ships of the Enemy, Pirate, or Rebel, or likelihood of Engagement, ſhall not put all things in his ſhip in a fit poſture for fight, and ſhall not in his own perſon, and according to his place, hearten and encourage the inferiour Officers and common men to fight couragiouſly, and not to behave themſelves faintly, ſhall be caſhiered; And if he or they ſhall yield to the Enemy, Pirate, or Rebels, or cry for quarter, he or they ſo doing ſhall ſuffer the pains of death, or ſuch other puniſhment as the offence ſhall deſerve.</p>
+            <p n="11">
+               <label>XI.</label> Every Captain, Commander, and other Officer, Seamen, or Souldier of any Ship, Frigat, or Veſſel of War, ſhall duely obſerve the Commands of the Admiral, or other his Superiour or Commander of any <hi>Squadron,</hi> as well for the Aſſailing or Setting upon any Fleet, Squadron, or Ships of the Enemy, Pirate, or Rebels, or joyning Battel with them, or making defence againſt them, as all other the Com<g ref="char:EOLhyphen"/>mands of the Admiral, or other his Superiour Commander, upon pain to ſuffer death or other puniſhment, as the quality of his neglect or offence ſhall deſerve.</p>
+            <p n="12">
+               <label>XII.</label> Every Captain, and all other Officers, Marriners, and <hi>Souldiers</hi> of every <hi>Ship,</hi> Frigat, or Veſſel of War, that ſhall in time of any fight or engagement, withdraw, or keep back, or not come into the fight and engage, and do his ut<g ref="char:EOLhyphen"/>moſt, to take, fire, kill, and endamage the Enemy, Pirate, or Rebels; and aſſiſt, and relieve all and every of His Maje<g ref="char:EOLhyphen"/>ſties Ships; ſhall for ſuch offence of cowardize or diſaffection be tryed and ſuffer pains of death, or other puniſhment, as the circumſtance of the offence ſhall deſerve, and the Court-Martial ſhall judge fit.</p>
+            <p n="13">
+               <pb n="6" facs="tcp:178777:5"/>
+               <label>XIII.</label> The Captains, Officers, and Seamen of all Ships appointed for Convoy and Guard of Merchants Ships, or any other, ſhall diligently attend upon that Charge without de<g ref="char:EOLhyphen"/>lay, according to their Inſtructions in that behalf; and whoſoever ſhall be faulty therein, and ſhall not faithfully per<g ref="char:EOLhyphen"/>form the ſame, and defend the Ships and Goods in their Con<g ref="char:EOLhyphen"/>voy, without either diverting to other parts or occaſions, or refuſing or neglecting to fight in their defence, if they be ſet upon or aſſailed, or running away cowardly, and ſubmit<g ref="char:EOLhyphen"/>ting thoſe in their Convoy to hazard and peril; or ſhall de<g ref="char:EOLhyphen"/>mand and exact any Money, or other Reward from any Merchant and Maſter, for conveying of any ſuch Ships or other Veſſels belonging to His Majeſties Subjects, ſhall be condem<g ref="char:EOLhyphen"/>ned to make reparation of the damage to the Merchants, Ow<g ref="char:EOLhyphen"/>ners, and others, as the Court of the Admiralty ſhall adjudge; and alſo be puniſhed criminally, according to the quality of their offences, be it by pains of death or other puniſhment, ac<g ref="char:EOLhyphen"/>cording as ſhall be judged fit by the Court-Martial.</p>
+            <p n="14">
+               <label>XIV.</label> Whatſoever perſon or perſons, in, or belonging to the Fleet, either through cowardize, negligence, or diſaffe<g ref="char:EOLhyphen"/>ction, ſhall forbear to purſue the chaſe of any Enemy, or Pirate, or kebel beaten, or flying, or ſhall not relieve or aſſiſt a known friend in view, to the utmoſt of his power, ſhall be puniſhed with death or otherwiſe, as a Court-Martial ſhall find fit.</p>
+            <p n="15">
+               <label>XV.</label> When at any time, ſervice or action ſhall be com<g ref="char:EOLhyphen"/>manded, no man ſhall preſume to ſtop, or put backward, or diſcourage the ſaid ſervice and action, by pretence of Arrears of Wages, or upon any pretence of Wages whatſoever, upon pain of death.</p>
+            <p n="16">
+               <pb n="7" facs="tcp:178777:5"/>
+               <label>XVI.</label> All Sea-Captains, Officers, and Seamen, that ſhall betray their Truſt, or turn to the Enemy, Pirate, or Rebels, and either run away with their <hi>Ship,</hi> or any Ordnance, Am<g ref="char:EOLhyphen"/>munition, or Proviſion, to the weakening of the <hi>Service,</hi> or yield the ſame up to the Enemy, Pirate, or Rebels, ſhall be pu<g ref="char:EOLhyphen"/>niſhed with death.</p>
+            <p n="17">
+               <label>XVII.</label> All Sea-Captains, Officers, or Mariners, that ſhall deſert the Service or their Imployment in the Ships, or ſhall run away, or intice any others ſo to do, ſhall be puniſhed with death.</p>
+            <p n="18">
+               <label>XVIII.</label> All perſons whatſoever that ſhall come, or be ſound in the nature of Spies, to bring any ſeducing Letters or Meſſages from any Enemy or Rebel, or ſhall attempt or en<g ref="char:EOLhyphen"/>deavour to corrupt any Captain, Officer, Marriner, or other of the Navy or Fleet, to betray his or their Truſt, and yield up any Ship, or Ammunition, or turn to the Enemy or Rebel, ſhall be puniſhed with death.</p>
+            <p n="19">
+               <label>XIX.</label> No perſon in or belonging to the Fleet, ſhall utter words of Sedition or Mutiny, nor make, or endeavour to make any Mutinous Aſſemblies upon any pretence whatſoever, upon pain of death.</p>
+            <p n="20">
+               <label>XX.</label> No perſon in or belonging to the Fleet, ſhall conceal any Traiterous or Mutinous Practices, deſigns, or words, or any words ſpoken by any to the prejudice of His Majeſty or Government, or any words, practices, or deſigns, tending to the hindrance of the
+<hi>Scrrice,</hi> but ſhall forthwith reveal them to his <hi>Superiour,</hi> that a meet proceeding may be had thereupon, upon pain of ſuch puniſhment as a Court-Martial ſhall find to be juſt.</p>
+            <p n="21">
+               <pb n="8" facs="tcp:178777:6"/>
+               <label>XXI.</label> None ſhall preſume to quarrel with his Superior Offi<g ref="char:EOLhyphen"/>cer, upon pain of ſevere puniſhment, nor to ſtrike any ſuch upon pain of death, or otherwiſe, as a Court-Martial ſhall find the matter to deſerve.</p>
+            <p n="22">
+               <label>XXII.</label> If any of the Fleet find Cauſe of Complaint of the unwholſomneſs of his Victuals, or upon other juſt ground, he ſhall quietly make the ſame known to his Superior, or Captain, or Commander in chief, as the occaſion may de<g ref="char:EOLhyphen"/>ſerve, that ſuch preſent remedy may be had as the Matter may require, and the ſaid Superiour or Commander is to cauſe the ſame to be preſently remedied accordingly; but no perſon, upon any ſuch or other pretence, ſhall privately at<g ref="char:EOLhyphen"/>tempt to ſtir up any diſturbance, upon pain of ſuch ſevere pu<g ref="char:EOLhyphen"/>niſhment as a Court-Martial ſhall find meet to inflict.</p>
+            <p n="23">
+               <label>XXIII.</label> None ſhall quarrel or fight in the Ship, nor uſe provoking or reproachful ſpeeches tending to make any quar<g ref="char:EOLhyphen"/>rel or diſturbance, upon pain of impriſonment, and ſuch other puniſhment as the offence ſhall deſerve, and the Court-Marti<g ref="char:EOLhyphen"/>al ſhall impoſe.</p>
+            <p n="24">
+               <label>XXIV.</label> That there be no waſteful expence of any Powder, Shot, Ammunition, or other Stores in the Fleet, nor any im<g ref="char:EOLhyphen"/>bezlement thereof, but that the Stores and proviſions be care<g ref="char:EOLhyphen"/>fully preſerved upon ſuch penalties by Fine, Impriſoment, or otherwiſe, upon the Offenders, Abetters, Buyers, and Receivers, as ſhall be by a Court-Martial found juſt in that behalf.</p>
+            <p n="25">
+               <label>XXV.</label> That care be taken in the conducting and Steering of the Ships, that through wilfulneſs, negligence, or other defaults, none of his Majeſties Ships be ſtranded or run upon
+<pb n="9" facs="tcp:178777:6"/> any Rocks or Sands, or ſplit, or hazarded, upon pain, that ſuch as ſhall be found guilty therein, be puniſhed by Fine, Impriſonment, or otherwiſe, as the offence by a Court-Martial ſhall be adjudged to deſerve.</p>
+            <p n="26">
+               <label>XXVI.</label> All perſons that ſhall willingly burn or ſet fire on any Ship, or Magazine, or Store of Powder, or Ship, Boat, Ketch, Hoy, or Veſſels, or Tackle, or Furniture thereto be<g ref="char:EOLhyphen"/>longing, not appertaining to the Enemy or Rebel, ſhall be puniſhed with death.</p>
+            <p n="27">
+               <label>XXVII.</label> No man, in, or belonging to the Fleet, ſhall ſleep upon his Watch, or negligently perform the duty impoſed on him, or for ſake his ſtation, upon pain of death, or other pu<g ref="char:EOLhyphen"/>niſhment as the Circumſtances of the Caſe ſhall require.</p>
+            <p n="28">
+               <label>XXVIII.</label> All Murthers and wilful Killing of any Perſons in the Ship, ſhall be puniſhed with death.</p>
+            <p n="29">
+               <label>XXIX.</label> All Robbery and Theft committed by any perſon, in or belonging to the Fleet, ſhall be puniſhed with death, or otherwiſe, as the Court-Martial upon conſideration of the cir<g ref="char:EOLhyphen"/>cumſtances ſhall find meet.</p>
+            <p n="30">
+               <label>XXX.</label> No Provoſt-Martial belonging to the Fleet, ſhall refuſe to receive or keep any Priſoner committed to his charge, nor ſuffer him to eſcape, being once in his cuſtody, nor diſmiſs him without order, upon pain of being lyable to the ſame pu<g ref="char:EOLhyphen"/>niſhment, which ſhould have been inflicted upon the party diſ<g ref="char:EOLhyphen"/>miſſed, or permitted to eſcape, or ſuch other puniſhment as the Court-Martial ſhall think fit.</p>
+            <p n="31">
+               <pb n="10" facs="tcp:178777:7"/>
+               <label>XXXI.</label> All Captains, Officers, and Seamen ſhall do their endeavours to detect, apprehend, and bring to puniſhment all offenders, and ſhall aſſiſt the Officers appointed for that purpoſe therein, upon pain to be proceeded againſt, and puniſhed by the Court-Martial at diſcretion.</p>
+            <p n="32">
+               <label>XXXII.</label> If any perſon or perſons, in or belonging to the Fleet, ſhall commit the unnatural and deteſtable ſin of Buggery, or Sodomy, with Man or Beaſt, he ſhall be puniſhed with death without Mercy.</p>
+            <p n="33">
+               <label>XXXIII.</label> All other Faults, Miſdemeanors, and Diſorders committed at Sea, not mentioned in this Act, ſhall be puniſhed by the Laws and Cuſtomes in ſuch caſes uſed at <hi>Sea.</hi>
+            </p>
+            <p n="34">
+               <label>XXXIV.</label> And it is hereby further Enacted, That the Lord High-Ad<g ref="char:EOLhyphen"/>miral for the time being, ſhall by vertue of this Act have full power and authority, to grant Commiſſions to Inferiour Vice-Admirals, or Commanders in chief of any Squadron of Ships, to call and aſſemble Court-Martials, conſiſting of Comman<g ref="char:EOLhyphen"/>ders and Captains; and no Court-Martial, where the pains of death ſhall be inflicted, ſhall conſiſt of leſs then five Captains at leaſt, the Admirals Lieutenant to be as to this purpoſe eſtee<g ref="char:EOLhyphen"/>med as a Captain; and in no cauſe wherein
+<hi>Sentence</hi> of Death <pb n="11" facs="tcp:178777:7"/> ſhall paſs by vertue of the Aticles aforeſaid, or any of them (except in caſe of Mutiny there ſhall be Execution of ſuch <hi>Sentence</hi> of Death, without he leave of the Lord High Admiral, if the offence be commited within the Narrow-Seas: But in caſe any of the offences afoeſaid be committed in any Voyage beyond the Narrow Seas whereupon Sentence of Death ſhall be given in purſuance of the aforeſaid Articles, or of any of them; then Execution ſhal not be done but by Order of the commander in chief of that
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>leet or Squadron wherein Sentence of Death was paſſed.</p>
+            <p n="35">
+               <label>XXXV.</label> And be it further Enacted and D<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>clared. That the Judge-Advocate of any Fleet, for the tine being, ſhall have full power and authority to adminiſter an Oath to any perſon or witneſs in order to the Examination or Tryal of any of the offences aforeſaid; and in the abſerce of a Judge-Advocate, the Court-Martial ſhall have full power and authority to ap<g ref="char:EOLhyphen"/>point any perſon to adminiſter an Oath to the purpoſes afore<g ref="char:EOLhyphen"/>ſaid.</p>
+            <div type="limitation">
+               <p>PRovided alſo, and be it further Enacted by the Authority aforeſaid, That this Act or any thing or things therein contained, ſhall not in any manner of wiſe extend to give unto the Lord Admiral of
+<hi>ENGLAND,</hi> for the time being, or to any his Vice-Admirals, Judge or Judges of the Admiralty, his or their Deputy or Deputies, or to any other the Officers or Miniſters of the Admiralty, or to any others having or cla<g ref="char:EOLhyphen"/>ming any Admiral Power, Juriſdiction, or Authority within this Realm and
+<hi>WALES,</hi> nor any other the Kings Domi<g ref="char:EOLhyphen"/>nions, any other power, right, juriſdiction, preheminence, or <pb n="12" facs="tcp:178777:8"/> authority, then he or they or any of them lawfully have, hath, or had, or ought to
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ave, and enjoy before the making of this Act, other then for ſuch of the offences ſpecified in the ſeveral <hi>Articles</hi> contained in this <hi>Act,</hi> as hereafter ſhall be done upon the main Sea, or in Ships or Veſſels being and ho<g ref="char:EOLhyphen"/>vering in the main Strean of great Rivers, onely beneath the Bridges of the ſame Rivers, nigh to the Sea within the Juriſ<g ref="char:EOLhyphen"/>diction of the Admiralty, and in none other places whatſoe<g ref="char:EOLhyphen"/>ver; and committed onl<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> by ſuch perſons as ſhall be in actual Service and pay in His M<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>jeſties Fleet, or Ships of War.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
